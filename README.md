@@ -2,8 +2,7 @@
 Jupyter Notebook project exploring factors that influence customer churn using Python and machine learning.
 Customer Churn Analysis
 
-Author: Shakirah Benson  
-Date: January 2025  
+Author: Shakirah Benson
 
 This project explores key drivers of customer churn on an e-commerce platform. Using Python and machine learning, the analysis identifies which customer behaviors are most correlated with churn, segments users into actionable groups, and builds a predictive model to support retention strategies.
 
@@ -63,16 +62,7 @@ The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/muhammadsha
 
 - `ChurnAnalysis.ipynb`: Main notebook containing code, visualizations, and modeling
 - `README.md`: Project overview and summary
-- `Churn_Insights.pdf`: (Optional) Polished case study for non-technical stakeholders
-
----
-
-## View the Notebook
-
-> 📎 [Click here to view the full Jupyter Notebook](https://github.com/yourusername/churn-analysis/blob/main/ChurnAnalysis.ipynb)
-
 ---
 
 ## Contact
-
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/shakirahbenson) or email at sbaneesa@gmail.com.
